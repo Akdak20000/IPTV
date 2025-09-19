@@ -1,0 +1,134 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TF1.fr@HD" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment",TF1 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr@SD" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="Movies",TF1 Series Films (1080p)
+https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1_
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTgzMzEwOTMsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU4MzE2NjkzLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.fYYS-RFR8Nv-S6_EsTERqE14H0aOQcqFvm_ULXlurKk/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1-
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MS4xMzQuMjQ4LjE5MiIsImNtY2QiOiIiLCJleHAiOjE3NTgzMzIzOTAsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc1ODMxNzk5MCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.w0U9do3xkF7VORhzyygga6jdnoD43wboQhtonfEUQ1o/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 (backup SD)
+error: No playable streams found on this URL: https://www.tf1.fr/tf1/direct
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 (backup BD_LQ)
+https://live-tf1-hls.cdn-0.diff.tf1.fr/no/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 (backup)
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/refs/heads/main/Stream/Live/TF1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 (backup)
+https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 (backup)
+http://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 (backup)
+https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 (backup)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr2nv.m3u8
+#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="General",France 2 (1080p)
+http://69.64.57.208/france2/mono.m3u8
+#EXTINF:-1 tvg-id="France2.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="General",France 2 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3 (backup)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr3nv.m3u8
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png" group-title="General",France 3 (1080p) [Geo-blocked]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8
+#EXTINF:-1 tvg-id="France3.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png" group-title="General",France 3 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png",FRANCE 4
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png",FRANCE 4 (backup)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
+#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png" group-title="Kids",France 4 (1080p) [Geo-blocked]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france4.m3u8
+#EXTINF:-1 tvg-id="France4.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png" group-title="Kids",France 4 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5 (backup)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr5nv.m3u8
+#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" group-title="General",France 5 (1080p)
+http://69.64.57.208/france5/mono.m3u8
+#EXTINF:-1 tvg-id="France5.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" group-title="General",France 5 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
+#EXTINF:-1 tvg-id="M6.fr@SD" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="Entertainment",M6 [Geo-blocked]
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 CH/SWISS
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" drm="ClearKey", drmkey="433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",M6
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 CH/SWISS (backup)
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (backup)
+http://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/6.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (backup)
+https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/6.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (backup)
+https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/6.ts?extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (test)
+http://gratuittv.free.fr/Files/m6/live/playlist.m3u8
+#EXTINF:-1 tvg-name="LCP" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg/53px-Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg.png" tvg-id="LCP.fr" group-title="France",LCP
+https://lcp.fr/le-live-lcp-tnt-5433
+#EXTINF:-1 tvg-name="Public Sénat" tvg-logo="https://i.imgur.com/bJOdFT1.png" tvg-id="PublicSenat.fr" group-title="France",Public Sénat
+https://www.publicsenat.fr/direct
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rkv3Nvq/lcpan.png",LCP-AN
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/dmotion/py/lcpan/lcp1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0pH2kRYr/lcpps.png",LCP/PS
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcp-public-senat.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZpTLsj47/psenat.png",PUBLIC-SÉNAT
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
+#EXTINF:-1 tvg-id="LCP.fr@SD" tvg-logo="https://i.imgur.com/k7UImOJ.png" group-title="Legislative",LCP
+https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" drm="ClearKey", drmkey="e8ae44faa1e73658bfe725dec8204259:d90e4519b41352e2791370dfcc20406b",W9
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00/dash-short-hd.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 [drm-keycrypted]
+https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/82a128a679444d3c9b4d68c1616e239a/hls_short_fp00_w9_hdeindex.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 [drm-keycrypted]
+https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/fe03c8da4a9c477da026d2b79a70195b/dash_short_cenc10_w9_hd_index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 [drm-keycrypted]
+https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/2babf2563b5b420caa743430699c096b/dash_short_cenc10_scte_w9_hdeindex.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" user-agent="VAVOO/1.0" referer="https://vavoo.to/",W9 (test)
+https://joaquinito02.es/vavoo/128046615.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 (test)
+https://live20.bozztv.com/dvrfl06/astv/astv-w9tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 (invest)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/rtlm6/directmaster/w9.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 (check)
+http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
+#EXTINF:-1 tvg-id="W9.fr@SD" tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="Entertainment",W9
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png",TMC
+https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+#EXTINF:-1 tvg-id="TMC.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/512px-TMC_logo.svg.png" group-title="General",TMC HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+#EXTINF:-1 tvg-id="TFX.fr@SD" tvg-logo="https://i.imgur.com/d91GcVf.png" group-title="Undefined",TFX (1080p)
+https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
+https://lbcdn.6cloud.fr/resource/m6web/l/gulli_hls_sd_short_q2hyb21h.m3u8?groups[]=m6web-live-gulli_ext
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
+https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" drm="ClearKey", drmkey="05614a18d93436c59383bcfa64a26265:fa44f0cdbd1a5d97732d4f55e461175c",GULLI
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_cenc00/dash-short-hd.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" drm="ClearKey", drmkey="05614a18d93436c59383bcfa64a26265:fa44f0cdbd1a5d97732d4f55e461175c",GULLI
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_fp00/hls-short-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
+https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="1. |FR|🇫🇷 INFORMATION",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (backup)
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (backup)
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (backup)
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (backup)
+https://mit2-cdn-edge-live06.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/sid=054akapminjaseksmkrg/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (backup)
+https://d133u1kwyeqhav.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cfh0ys5588w7f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (backup)
+https://d2me2cx8crwpp6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-456wmaba0e7dw/index.m3u8
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="News",BFM TV (576p)
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
